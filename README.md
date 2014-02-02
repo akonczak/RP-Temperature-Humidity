@@ -1,7 +1,7 @@
 Raspberry PI Temperature/Humidity and LCD Display
 ========================= 
 
-[![wiring](https://github.com/akonczak/raw/RP-Temperature-Humidity/raspberryPI+t-cobbler+lcd+AM2302.png)]
+![wiring all parts together](https://raw2.github.com/akonczak/RP-Temperature-Humidity/master/raspberryPI+t-cobbler+lcd+AM2302.png "wiring all parts together")
 
 Parts:
 Raspberry PI
